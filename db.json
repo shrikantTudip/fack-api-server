@@ -1,77 +1,73 @@
 {
-  "projects": {
-    "5m6gbdgho6": {
-      "settings": {
-        "integrations": {},
-        "plan": {
-            "track": {
-                "App Launched": {
-                    "enabled": true,
-                    "integrations": {}
-                },
-                "Pixel Rendered": {
-                    "enabled": true,
-                    "integrations": {}
-                },
-                "Signed Up": {
-                    "enabled": true,
-                    "integrations": {}
-                },
-                "__default": {
-                    "enabled": true,
-                    "integrations": {}
-                }
+  "projects/5m6gbdgho6/settings": {
+    "integrations": {},
+    "plan": {
+        "track": {
+            "App Launched": {
+                "enabled": true,
+                "integrations": {}
             },
-            "identify": {
-                "Operating System": {
-                    "enabled": true
-                },
-                "Operating System Second": {
-                    "enabled": true
-                },
-                "__default": {
-                    "enabled": true
-                },
-                "anonymousId": {
-                    "enabled": true
-                },
-                "company": {
-                    "enabled": true
-                },
-                "email": {
-                    "enabled": true
-                },
-                "favoriteCompiler": {
-                    "enabled": true
-                },
-                "firstName": {
-                    "enabled": true
-                },
-                "industry": {
-                    "enabled": true
-                },
-                "lastName": {
-                    "enabled": true
-                },
-                "name": {
-                    "enabled": true
-                },
-                "nickname": {
-                    "enabled": true
-                },
-                "some-arr": {
-                    "enabled": true
-                },
-                "userId": {
-                    "enabled": true
-                }
+            "Pixel Rendered": {
+                "enabled": true,
+                "integrations": {}
             },
-            "group": {
-                "__default": {
-                    "enabled": true
-                }
+            "Signed Up": {
+                "enabled": true,
+                "integrations": {}
+            },
+            "__default": {
+                "enabled": true,
+                "integrations": {}
             }
-          }
+        },
+        "identify": {
+            "Operating System": {
+                "enabled": true
+            },
+            "Operating System Second": {
+                "enabled": true
+            },
+            "__default": {
+                "enabled": true
+            },
+            "anonymousId": {
+                "enabled": true
+            },
+            "company": {
+                "enabled": true
+            },
+            "email": {
+                "enabled": true
+            },
+            "favoriteCompiler": {
+                "enabled": true
+            },
+            "firstName": {
+                "enabled": true
+            },
+            "industry": {
+                "enabled": true
+            },
+            "lastName": {
+                "enabled": true
+            },
+            "name": {
+                "enabled": true
+            },
+            "nickname": {
+                "enabled": true
+            },
+            "some-arr": {
+                "enabled": true
+            },
+            "userId": {
+                "enabled": true
+            }
+        },
+        "group": {
+            "__default": {
+                "enabled": true
+            }
         }
     }
   },
