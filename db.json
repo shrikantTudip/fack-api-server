@@ -1,6 +1,7 @@
 {
   "projects": {
     "5m6gbdgho6": {
+      "settings": {
         "integrations": {},
         "plan": {
             "track": {
@@ -70,6 +71,7 @@
                     "enabled": true
                 }
             }
+          }
         }
     }
   },
